@@ -1,5 +1,5 @@
 # HolaMundo
 pruebas en GitHub
 
-#instruciones de uso 
+# instruciones de uso 
 -primeras lineas de prueba para ver cambios
